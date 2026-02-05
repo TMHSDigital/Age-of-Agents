@@ -11,7 +11,7 @@
 
 *Philosophy: Less is More. No noise, only the industry-leading, actively maintained projects defining the agentic era.*
 
-[The Big Three](#the-big-three-frameworks) • [Infrastructure](#essential-infrastructure) • [Platforms](#discovery-platforms) • [Contributing](#contributing)
+[The Big Three](#the-big-three-frameworks) • [Infrastructure](#essential-infrastructure) • [Vertical Specialists](#vertical-specialists) • [Platforms](#discovery-platforms) • [Contributing](#contributing)
 
 </div>
 
@@ -33,8 +33,27 @@
 
 ---
 
+## Vertical Specialists
+*Agents engineered for specific professional domains and interfaces.*
+
+### Software Engineering
+**OpenHands**  
+The gold standard for autonomous software engineering, utilizing inference-time scaling and critic models to resolve complex GitHub issues end-to-end.  
+[Source Code](https://github.com/All-Hands-AI/OpenHands)
+
+### Web & Computer Use
+**Skyvern**  
+Vision-based browser automation that navigates the web like a human, providing high resilience against layout changes and anti-bot measures.  
+[Website](https://www.skyvern.com)
+
+**OpenAI Operator**  
+The definitive "Computer Use" agent capable of general-purpose navigation and action execution across the open web and desktop interfaces.  
+[Website](https://openai.com/index/introducing-operator)
+
+---
+
 ## Essential Infrastructure
-*The sensory organs and hands for autonomous agents.*
+*The sensory organs, hands, and safeguards for autonomous agents.*
 
 ### Search & Browsing
 
@@ -43,12 +62,12 @@
 | **Tavily** | Search API built for agents, delivering clean, LLM-ready context to reduce hallucination. | [tavily.com](https://tavily.com) |
 | **Browserbase** | Headless browser infrastructure with stealth mode and session debugging for dynamic web apps. | [browserbase.com](https://www.browserbase.com) |
 
-### Execution & Protocols
+### Execution & Security
 
 | Tool | Capability | Website |
 | :--- | :--- | :--- |
 | **E2B** | Secure, ephemeral cloud sandboxes giving agents "computational literacy" (code interpretation). | [e2b.dev](https://e2b.dev) |
-| **MCP** | The open standard for connecting AI models to external tools and data sources. | [modelcontextprotocol.io](https://modelcontextprotocol.io) |
+| **NeMo Guardrails** | Active orchestration layer for enforcing safety, topicality, and execution policies on agentic actions. | [nvidia.com](https://github.com/NVIDIA/NeMo-Guardrails) |
 | **Ollama** | The universal standard for local model serving with native tool-calling support for private agentic workflows. | [ollama.com](https://ollama.com) |
 
 ### Observability & Memory
