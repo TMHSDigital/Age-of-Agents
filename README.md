@@ -1,6 +1,6 @@
-# Age-of-Agents
-
 <div align="center">
+
+# ᴀɢᴇ ᴏꜰ ᴀɢᴇɴᴛs
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green?style=flat-square)
