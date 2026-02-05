@@ -26,6 +26,11 @@
 | **Microsoft AutoGen** | Robust framework for conversational multi-agent collaboration where agents communicate like a team. | [GitHub](https://github.com/microsoft/autogen) |
 | **CrewAI** | High-level framework for orchestrating role-based AI "crews" with defined backstories and goals. | [GitHub](https://github.com/crewAIInc/crewAI) |
 
+### Emerging "Code-First" Standard
+*   **PydanticAI**
+    A lightweight, Python-native framework utilizing strict type validation to ensure agentic outputs are reliable and production-ready.
+    [Source Code](https://github.com/pydantic/pydantic-ai)
+
 ---
 
 ## Essential Infrastructure
@@ -44,6 +49,14 @@
 | :--- | :--- | :--- |
 | **E2B** | Secure, ephemeral cloud sandboxes giving agents "computational literacy" (code interpretation). | [e2b.dev](https://e2b.dev) |
 | **MCP** | The open standard for connecting AI models to external tools and data sources. | [modelcontextprotocol.io](https://modelcontextprotocol.io) |
+| **Ollama** | The universal standard for local model serving with native tool-calling support for private agentic workflows. | [ollama.com](https://ollama.com) |
+
+### Observability & Memory
+
+| Tool | Capability | Website |
+| :--- | :--- | :--- |
+| **Arize Phoenix** | Open-source, OpenTelemetry-native tracing and evaluation for visualizing complex agent state graphs. | [phoenix.arize.com](https://phoenix.arize.com) |
+| **Zep** | A dedicated context engineering layer providing agents with fast, accurate long-term memory and personalization. | [getzep.com](https://www.getzep.com) |
 
 ---
 
